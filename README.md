@@ -80,3 +80,9 @@ There's [an excellent article](http://www.haskellforall.com/2014/11/how-to-build
 ## ToDo
 
 We would like to see more tests. Actual parsing of `BODYSTRUCTURE` replies would be nice, but the output format seems to be poorly documented and a bit insane, so PRs are appreciated.
+
+## Modernization for the latest resolver
+
+We now compile to the lastest resolver as of this writing: lts-16.17. I (Fred Mitchell, flajann2)
+made this possible, and will eventually see if the original maintainer would like to accept my pull
+request or I take the repo over.
