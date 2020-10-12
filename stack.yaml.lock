@@ -46,6 +46,20 @@ packages:
       sha256: 6150ec5094fe321150b1263bc751c1a85b22be766053fb4648115d8c02b2064b
   original:
     hackage: tasty-1.3.1
+- completed:
+    hackage: random-1.2.0@sha256:4321209c8faedc034810ea8ed0dbc4a36f1a1df97b75af024219f2f533da57de,6094
+    pantry-tree:
+      size: 1259
+      sha256: 29ff0a7ec5bf123e2c40f849b7af163950854a6c08c68b4a1b4364ce7a515af0
+  original:
+    hackage: random-1.2.0
+- completed:
+    hackage: splitmix-0.1.0.1@sha256:22f9662e7e8b173421872241edd39350078a9ed4bb9e9f503948c5b483c79276,5253
+    pantry-tree:
+      size: 1149
+      sha256: b9a0c60e2d4786bbb276ce6606027a99615bf703fa3e0f01911e8c6a656c5161
+  original:
+    hackage: splitmix-0.1.0.1
 snapshots:
 - completed:
     size: 532386
